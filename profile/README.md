@@ -1,5 +1,5 @@
 # Welcome! ✨
-This it the AthenaHacks Github. Here you will find the open-source for our workshops and websites! To view our current website, visit https://athenahacks.com/
+This it the AthenaHacks Github. Here you will find the open-source code for our workshops and previous websites! To view our current website, visit https://athenahacks.com/
 
 ## Previous Sites
 | Year | URL |
