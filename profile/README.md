@@ -4,6 +4,7 @@ This it the AthenaHacks Github. Here you will find the open-source code for our 
 ## Previous Sites
 | Year | URL |
 | - | - |
+| 2025 | https://athenahacks.github.io/AthenaHacks2025 |
 | 2024 | https://athenahacks.github.io/AthenaHacks2024 |
 | 2023 | https://athenahacks.github.io/AthenaHacks2023 |
 | 2022 | https://athenahacks.github.io/AthenaHacks2022 |
